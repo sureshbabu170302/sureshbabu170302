@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Suresh babu G S</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India with a solid foundation in Entity Framework Core, .NET Web API, and React. Over the past year, I’ve honed my skills while contributing to projects and gaining hands-on experience. Proficient in GitHub and adept at implementing efficient pipelines in DevOps.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
 
