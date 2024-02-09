@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.namasteui.com/wp-content/uploads/2019/07/Full-Stack-Developer.jpg))]([https://rishavchanda.io](https://sureshbabu-portfolio.netlify.app/))
 <h1 align="center">Hi 👋, I'm Suresh babu G S</h1>
 <h3 align="center">A passionate full-stack developer from India with a solid foundation in Entity Framework Core, .NET Web API, and React. Over the past year, I’ve honed my skills while contributing to projects and gaining hands-on experience. Proficient in GitHub and adept at implementing efficient pipelines in DevOps.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://bayanbox.ir/view/4124439541593829365/webdevelopment10.gif)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshbabu170302&label=Profile%20views&color=0e75b6&style=flat" alt="sureshbabu170302" /> </p>
 
