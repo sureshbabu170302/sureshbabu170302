@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [React Basic Movie Search Application](https://github.com/sureshbabu170302/React-Basic-Movie-Search-Application.git)
 
-- 🌱 I’m currently learning *React Js and JIRA*
+- 🌱 I’m currently learning *Node Js and React redux*
 
 - 👨‍💻 All of my projects are available at [https://sureshbabu-portfolio.netlify.app/](https://sureshbabu-portfolio.netlify.app/)
 
