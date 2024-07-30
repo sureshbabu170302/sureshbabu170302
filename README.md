@@ -15,7 +15,7 @@
 
 - 📫 How to reach me *sureshbabu170302@gmail.com*
 
-- ⚡ Fun fact *The first time I ever moved away from home was participating in a job internship 300km away from my hometown.*
+- ⚡ Fun fact *The first time I ever moved away from home was for a internship which is 300km away from my hometown.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
