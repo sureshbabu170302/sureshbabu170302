@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [Location Tracker Application](https://github.com/sureshbabu170302/Location-Tracker-Application.git)
 
-- 🌱 I’m currently learning *JavaScript, HTML, CSS and React Js*
+- 🌱 I’m currently learning *JavaScript, HTML, CSS, and React Js*
 
 - 👨‍💻 All of my projects are available at [https://sureshbabu-portfolio.netlify.app/](https://sureshbabu-portfolio.netlify.app/)
 
-- 💬 Ask me about *ASP.Net Web API, React Js and Github*
+- 💬 Ask me about *React Js, ASP.Net Web API, and GitHub*
 
 - 📫 How to reach me *sureshbabu170302@gmail.com*
 
-- ⚡ Fun fact *The first time I ever moved away from home was for a internship which is 300km away from my hometown.*
+- ⚡ Fun fact *The first time I ever moved away from home was for an internship which is 300km away from my hometown.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
