@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Worldwise Application](https://github.com/sureshbabu170302/React-Js-Projects/tree/main/worldwise)
 
-- 🌱 I’m currently learning *JavaScript, HTML, CSS, and React Js*
+- 🌱 I’m currently learning *Next Js, Tailwind CSS, TypeScript and Shadcn*
 
 - 👨‍💻 This is my Portfolio [https://sureshbabu-portfolio.netlify.app/](https://sureshbabu-portfolio.netlify.app/)
   
