@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suresh Babu G S</h1>
-<h3 align="center">A passionate full-stack developer from India with a solid foundation in Entity Framework Core, .NET Web API and React Js. Over the past year, I’ve honed my skills while contributing to projects and gaining hands-on experience. Proficient in GitHub and adept at implementing efficient pipelines in DevOps.</h3>
+<h3 align="center">A passionate full-stack developer from India with a solid foundation in Next Js, React Js, Entity Framework Core and .NET Web API. Over the past year, I’ve honed my skills while contributing to projects and gaining hands-on experience. Proficient in GitHub and adept at implementing efficient pipelines in DevOps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshbabu170302&label=Profile%20views&color=0e75b6&style=flat" alt="sureshbabu170302" /> </p>
 
