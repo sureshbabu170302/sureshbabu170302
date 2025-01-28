@@ -15,7 +15,7 @@
 
 - 👨‍💻 This is my React Atomic blog website [https://suresh-atomic-blog.vercel.app/](https://suresh-atomic-blog.vercel.app/)
 
-- 💬 Ask me about *React Js, ASP.Net Web API, and GitHub*
+- 💬 Ask me about *Next Js, React Js, ASP.Net Web API, and GitHub*
 
 - 📫 How to reach me *sureshbabu170302@gmail.com*
 
